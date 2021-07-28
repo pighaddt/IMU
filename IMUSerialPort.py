@@ -19,7 +19,7 @@ ax = []
 ay = []
 az = []
 
-portx = "COM10"
+portx = "COM4"
 bps = 115200
 
 A = []
